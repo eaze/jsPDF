@@ -55,6 +55,8 @@
  * @returns {jsPDF}
  * @name jsPDF
  */
+module.exports = jsPDF
+
 var jsPDF = (function (global) {
     'use strict';
     var pdfVersion = '1.3',

@@ -1,4 +1,4 @@
-#jsPDF
+#jsPDF (fork with added CommonJS support)
 
 [![Inline docs](http://inch-ci.org/github/MrRio/jsPDF.svg?branch=master)](http://inch-ci.org/github/MrRio/jsPDF)
 
